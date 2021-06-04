@@ -14,6 +14,11 @@ Vue was used to build the site. A user can register a new student, or login if t
 
 <br />
 
+### Visuals
+
+![image](https://user-images.githubusercontent.com/65408615/120838460-d60c4900-c535-11eb-9c88-0ef04042f15b.png)
+
+
 
 ### Next Steps 
 
