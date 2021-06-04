@@ -2,7 +2,7 @@
 
 
 ### Description
-This is a full stack application that allows a user to make either a student or alumni profile and interact with a career prep chatbot.
+This full stack application allows a user to make either a student or alumni profile and interact with a career prep chatbot.
 
 
 ### Methods
