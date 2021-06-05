@@ -10,7 +10,7 @@ The postgres DB contains tables for users, user details, and multiple tables for
 <br />
 
 
-Vue was used to build the site. A user can register a new student, or login if they have an account. They are then brough to the home page where they can interact with the chatbot. The chatbot provides help with soft skills, interview prep, job postings, and motivational picture. Inspirational quotes and current weather based on the ZIP code are presented when the page loads. Finally this was uploaded to Netlify to allow others to test the app.
+Vue was used to build the site. A user can register a new student, or login if they have an account. They are then brough to the home page where they can interact with the chatbot. The chatbot provides help with soft skills, interview prep, job postings, and motivational pictures. Inspirational quotes and current weather based on the ZIP code are presented when the page loads. Finally this was uploaded to Netlify to allow others to test the app.
 
 <br />
 
