@@ -6,7 +6,7 @@ This full stack application allows a user to make either a student or alumni pro
 
 
 ### Methods
-The postgres DB contains tables for users, user details, and multiple tables for different data to be shown to the user in the chatbot. Spring boot was used to to build the server which consumes weather, job, and quotes APIs and serves all of that info as well as data from our database. Finally the server was deployed on Heroku. 
+The postgres DB contains tables for users, user details, and multiple tables for different data to be shown to the user in the chatbot. Spring boot was used to to build the server which consumes weather, job, and quotes APIs and serves all of that info as well as data from the postgreSQL database. Finally the server was deployed on Heroku. 
 <br />
 
 
